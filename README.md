@@ -1,6 +1,4 @@
 # Service Distribution Readiness  
-<img width="1136" height="394" alt="image" src="https://github.com/user-attachments/assets/967cec44-b7bd-4e09-a630-14c6def8a921" />
-
 
 ## 📌 Overview  
 This project simulates how a **Training Project Manager in Service Distribution** ensures service centers are ready by aligning **parts availability** and **technician training compliance**.  
